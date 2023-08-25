@@ -1,0 +1,39 @@
+
+h1{
+    text-align:center;
+    color:darkgrey;
+    background-color:yellow;
+    height: 200px;
+    width:100;
+    border-style:double;
+    border-width:50px ;
+border-radius:50% ;
+padding-left:20px ;
+}
+p{
+    background-color: black;
+    color: red;
+    text-align:center ;
+}
+#3{
+    background-color:yellowgreen ;
+}
+h1{
+color: coral;
+background-color: cadetblue;
+height:200px ;
+text-align: center;
+border-style:double;
+border-width:50px ;
+border-color: crimson;
+}
+span{
+    color: orangered;
+    background-color: blue;
+    border-style: double;
+    border-width:20px ;
+}
+a{ 
+    color:orange;
+    background-color: brown;
+}
